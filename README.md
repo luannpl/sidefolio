@@ -20,7 +20,7 @@ Este é o repositório do meu portfólio pessoal, desenvolvido com **Next.js**, 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/sidefolio.git
+git clone https://github.com/luannpl/sidefolio.git
 cd sidefolio
 
 # Instale as dependências
